@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'InfinityIcons';
-  src:  url('fonts/InfinityIcons.eot?a9ihoj');
-  src:  url('fonts/InfinityIcons.eot?a9ihoj#iefix') format('embedded-opentype'),
-    url('fonts/InfinityIcons.ttf?a9ihoj') format('truetype'),
-    url('fonts/InfinityIcons.woff?a9ihoj') format('woff'),
-    url('fonts/InfinityIcons.svg?a9ihoj#InfinityIcons') format('svg');
+  src:  url('fonts/InfinityIcons.eot?vcfzky');
+  src:  url('fonts/InfinityIcons.eot?vcfzky#iefix') format('embedded-opentype'),
+    url('fonts/InfinityIcons.ttf?vcfzky') format('truetype'),
+    url('fonts/InfinityIcons.woff?vcfzky') format('woff'),
+    url('fonts/InfinityIcons.svg?vcfzky#InfinityIcons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -238,7 +238,7 @@
 .icon-house:before {
   content: "\e946";
 }
-.icon-info:before {
+.icon-info1:before {
   content: "\e947";
 }
 .icon-invoice:before {
@@ -459,4 +459,31 @@
 }
 .icon-withdraw:before {
   content: "\e990";
+}
+.icon-info:before {
+  content: "\e991";
+}
+.icon-clock-filled:before {
+  content: "\e992";
+}
+.icon-pie-filled:before {
+  content: "\e993";
+}
+.icon-warning-filled:before {
+  content: "\e994";
+}
+.icon-filetype-ppt:before {
+  content: "\e995";
+}
+.icon-filetype-excel:before {
+  content: "\e996";
+}
+.icon-filetype-pdf:before {
+  content: "\e997";
+}
+.icon-filetype-doc:before {
+  content: "\e998";
+}
+.icon-filetype-image:before {
+  content: "\e999";
 }
